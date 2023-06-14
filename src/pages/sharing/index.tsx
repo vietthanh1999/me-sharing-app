@@ -11,7 +11,7 @@ import axios from 'axios';
             <meta property="og:type" content={ogData?.type} />
             <meta property="og:description" content={ogData?.description} />
             <meta property="og:image" content={'https://ontvimgdev.vtvcab.vn/asset-service/api/static/image/v1/dms/chhscuhqnctlddttlcqh895148/cctt-hong-hyun-seok-cua-u23-han-quoc-nguoi-co-the-la-dong-doi-trong-tuong-lai-cua-quang-hai-chhscuhqnctlddttlcqh895148.jpg'} />
-            <meta name="twitter:image" content={ogData?.image} />
+            <meta name="twitter:image" content={'https://ontvimgdev.vtvcab.vn/asset-service/api/static/image/v1/dms/chhscuhqnctlddttlcqh895148/cctt-hong-hyun-seok-cua-u23-han-quoc-nguoi-co-the-la-dong-doi-trong-tuong-lai-cua-quang-hai-chhscuhqnctlddttlcqh895148.jpg'} />
             <meta name="twitter:card" content={ogData?.card} />
             <meta name="twitter:title" content={ogData?.title} />
             <meta name="twitter:description" content={ogData?.description} />
