@@ -21,7 +21,7 @@ import axios from 'axios';
   )
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
     // Gọi API để lấy dữ liệu Open Graph
     const response = await axios.get('https://6482013029fa1c5c503274e6.mockapi.io/api/v1/open-graph/1')
 
